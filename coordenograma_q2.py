@@ -74,7 +74,7 @@ def plot_coordination_graph(params, motor_data, protection_data, withstand_data)
 if __name__ == '__main__':
     
     SIMULATION_PARAMS = {
-        't_start': 0.75,
+        't_start': 1.2,
         't_lrc_cold': 27.0,
         'i_start_peak': 820.0,
         'i_nominal': 61.9,
